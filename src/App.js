@@ -16,7 +16,7 @@ function App() {
           <Navigasi />
 
           <Switch>
-            <Route path="/" component={Beranda} exact />
+            <Route path="/portfolio" component={Beranda} exact />
             <Route path="/beranda" component={Beranda} />
             <Route path="/tentang-saya" component={TentangSaya} />
             <Route path="/karya" component={Karya} />
