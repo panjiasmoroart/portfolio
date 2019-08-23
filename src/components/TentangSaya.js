@@ -43,6 +43,14 @@ class TentangSaya extends Component {
                 <h5 style={{marginTop:'0px'}}>SMK Fazar Depok</h5>
               </Cell>
             </Grid>
+            <Grid>
+              <Cell col={4}>
+                <p>2005 - 2008</p>
+              </Cell>
+              <Cell col={8}>
+                <h5 style={{marginTop:'0px'}}>SMP Islamiyah Sawangan Depok</h5>
+              </Cell>
+            </Grid>
             <hr style={{borderTop: '3px solid #00F260'}} />
             <h3>Pengalaman</h3>
             <Grid>
